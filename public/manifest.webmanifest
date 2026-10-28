@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "Harvest Math: Desa Numeria",
+  "short_name": "Harvest Math",
+  "description": "Petualangan belajar fungsi eksponen di Desa Numeria.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6ef",
+  "theme_color": "#386b50",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "./apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
